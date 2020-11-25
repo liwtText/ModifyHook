@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastWinTest", "FastWinTest\FastWinTest.csproj", "{EB14087B-507C-441E-8FF6-EA993E80E686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACSHook", "ACSHook\ACSHook.csproj", "{FD1F71DB-706E-48DA-8CBF-BD90199FCF2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACSHook.DLL", "ACSHook.DLL\ACSHook.DLL.csproj", "{A0520206-CBFD-4696-91CD-69F876094506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB14087B-507C-441E-8FF6-EA993E80E686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB14087B-507C-441E-8FF6-EA993E80E686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB14087B-507C-441E-8FF6-EA993E80E686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB14087B-507C-441E-8FF6-EA993E80E686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD1F71DB-706E-48DA-8CBF-BD90199FCF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1F71DB-706E-48DA-8CBF-BD90199FCF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1F71DB-706E-48DA-8CBF-BD90199FCF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1F71DB-706E-48DA-8CBF-BD90199FCF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0520206-CBFD-4696-91CD-69F876094506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0520206-CBFD-4696-91CD-69F876094506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0520206-CBFD-4696-91CD-69F876094506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0520206-CBFD-4696-91CD-69F876094506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {319C3433-089F-4147-A62C-3660D5F6E419}
+	EndGlobalSection
+EndGlobal
